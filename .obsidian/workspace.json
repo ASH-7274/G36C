@@ -1,0 +1,13 @@
+{
+  "plugin": {
+    "enabled": true
+  },
+  " vault": {
+    "name": "G36C",
+    "created": "2026-04-07"
+  },
+  "ai": {
+    "agent": "梦火claw",
+    "platform": "OpenClaw"
+  }
+}
