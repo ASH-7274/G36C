@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Numerical Simulation of Flow Characteristics for Supercritical CO2-Sprayed Polyurethane Resin",
+    "authors": "C. Li et al.",
+    "year": "2024",
+    "type": "英文论文（公开页面可访问受限，但题录明确）",
+    "link": "https://www.mdpi.com/2073-4360/16/7/940",
+    "value": "最贴近“喷枪/流场/喷涂过程”的核心文献，聚焦 scCO2 喷涂聚氨酯树脂的 CFD 数值模拟。"
+  },
+  {
+    "title": "超临界CO2喷涂聚氨酯树脂动力学行为的数值模拟",
+    "authors": "马智俊, 罗艳龙, 吕国会, 李池超, 马晓峰, 相明华, 罗振扬",
+    "year": "2025",
+    "type": "中文期刊题录",
+    "link": "https://sns.wanfangdata.com.cn/sns/perio/jazgy/?tabId=column&ztext=%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A&page=1&yearType=1&order=publish_year/issue_nu",
+    "value": "说明国内团队已将研究推进到喷涂动力学行为与数值模拟层面。"
+  },
+  {
+    "title": "浙江华创超临界CO₂辅助聚氨酯喷涂技术",
+    "authors": "PROCESS流程工业",
+    "year": "2025",
+    "type": "行业报道",
+    "link": "https://chem.jgvogel.cn/c1532855.shtml",
+    "value": "提供装备、应用规模、知识产权、工程推广信息，可补充喷枪/装备系统层面的产业化背景。"
+  },
+  {
+    "title": "超临界二氧化碳用于酚醛清漆喷涂的研究",
+    "authors": "相关作者见原文",
+    "year": "2019",
+    "type": "中文论文",
+    "link": "https://html.rhhz.net/yykj/html/201904004.htm",
+    "value": "虽非聚氨酯，但对喷枪—喷涂距离—压力—CO2 含量—液滴尺寸关系具有直接方法学参考价值。"
+  },
+  {
+    "title": "Supercritical Fluid Spray Application Technology",
+    "authors": "技术报告",
+    "year": "未知/较早",
+    "type": "PDF技术报告",
+    "link": "https://p2infohouse.org/ref/25/24795.pdf",
+    "value": "补充超临界 CO2 喷雾/喷枪/喷幅与液滴控制的基础工程背景。"
+  }
+]
